@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(Compeditive_Coding main.cpp
         problem_1/problem_1.cpp
         problem_1/problem_1.h
+        problem_2/problem_2.cpp
+        problem_2/problem_2.h
 )
