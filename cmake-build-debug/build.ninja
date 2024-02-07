@@ -79,6 +79,12 @@ build CMakeFiles/Compeditive_Coding.dir/problem_4/problem_4.cpp.o: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles/Compeditive_Coding.dir
   OBJECT_FILE_DIR = CMakeFiles/Compeditive_Coding.dir/problem_4
 
+build CMakeFiles/Compeditive_Coding.dir/problem_5/problem_5.cpp.o: CXX_COMPILER__Compeditive_Coding_unscanned_Debug /Users/shaunak/Desktop/Compeditive_Coding/problem_5/problem_5.cpp || cmake_object_order_depends_target_Compeditive_Coding
+  DEP_FILE = CMakeFiles/Compeditive_Coding.dir/problem_5/problem_5.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Compeditive_Coding.dir
+  OBJECT_FILE_DIR = CMakeFiles/Compeditive_Coding.dir/problem_5
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Compeditive_Coding
@@ -87,7 +93,7 @@ build CMakeFiles/Compeditive_Coding.dir/problem_4/problem_4.cpp.o: CXX_COMPILER_
 #############################################
 # Link the executable Compeditive_Coding
 
-build Compeditive_Coding: CXX_EXECUTABLE_LINKER__Compeditive_Coding_Debug CMakeFiles/Compeditive_Coding.dir/main.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_1/problem_1.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_2/problem_2.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_3/problem_3.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_4/problem_4.cpp.o
+build Compeditive_Coding: CXX_EXECUTABLE_LINKER__Compeditive_Coding_Debug CMakeFiles/Compeditive_Coding.dir/main.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_1/problem_1.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_2/problem_2.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_3/problem_3.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_4/problem_4.cpp.o CMakeFiles/Compeditive_Coding.dir/problem_5/problem_5.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Compeditive_Coding.dir
   POST_BUILD = :
