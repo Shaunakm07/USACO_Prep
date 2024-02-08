@@ -14,4 +14,6 @@ add_executable(Compeditive_Coding main.cpp
         problem_4/problem_4.h
         problem_5/problem_5.h
         problem_5/problem_5.cpp
+        problem_6/problem_6.cpp
+        problem_6/problem_6.h
 )
