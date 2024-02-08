@@ -1,8 +1,6 @@
 #include "problem_2.h"
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include "bits/stdc++.h"
+
 
 using namespace std;
 

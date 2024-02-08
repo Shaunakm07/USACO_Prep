@@ -1,8 +1,6 @@
 #include "problem_4.h"
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include "bits/stdc++.h"
+
 
 // problem URL: http://www.usaco.org/index.php?page=viewproblem2&cpid=963
 

@@ -1,8 +1,6 @@
 #include "problem_3.h"
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include "bits/stdc++.h"
+
 
  // NOTE THIS PROBLEM IS INCOMPLETE
 

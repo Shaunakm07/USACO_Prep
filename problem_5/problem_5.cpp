@@ -1,8 +1,6 @@
 #include "problem_5.h"
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include "bits/stdc++.h"
+
 
 // problem URL: https://cses.fi/problemset/task/1621
 

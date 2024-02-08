@@ -2,10 +2,8 @@
 // Created by Shaunak Mohapatra on 03/02/2024.
 //
 #include "problem_1.h"
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include "bits/stdc++.h"
+
 
 using namespace std;
 

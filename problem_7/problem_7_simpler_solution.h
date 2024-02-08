@@ -1,0 +1,12 @@
+//
+// Created by Shaunak Mohapatra on 08/02/2024.
+//
+
+#ifndef COMPEDITIVE_CODING_PROBLEM_7_SIMPLER_SOLUTION_H
+#define COMPEDITIVE_CODING_PROBLEM_7_SIMPLER_SOLUTION_H
+
+
+void problem_7_simpler_solution();
+
+
+#endif //COMPEDITIVE_CODING_PROBLEM_7_SIMPLER_SOLUTION_H
