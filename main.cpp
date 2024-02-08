@@ -6,11 +6,9 @@
 #include "problem_6/problem_6.h"
 #include "problem_7/problem_7.h"
 #include "problem_7/problem_7_simpler_solution.h"
-
-
-using namespace std;
+#include "problem_8/problem_8.h"
 
 int main()
 {
-    problem_7_simpler_solution();
+    problem_8();
 }
