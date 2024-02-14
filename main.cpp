@@ -8,8 +8,11 @@
 #include "problem_7/problem_7_simpler_solution.h"
 #include "problem_8/problem_8.h"
 #include "problem_9/problem_9.h"
+#include "problem_10/problem_10.h"
+#include "problem_11/problem_11.h"
+
 
 int main()
 {
-    problem_9();
+    problem_11();
 }
